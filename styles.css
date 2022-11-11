@@ -54,7 +54,7 @@
 /* для мобильных девайсов */
 @media only screen and (max-width: 390px){
     .box{
-        width: 330px;
+        width: 100%;
         height: 165px; 
     }
 
@@ -66,7 +66,7 @@
 /*Для десктопов*/
 @media only screen and (min-width: 391px){
     .box{
-        width: 600px;
+        width: 45%;
         height: 300px;
     }
 
